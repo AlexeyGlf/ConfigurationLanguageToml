@@ -1,0 +1,6 @@
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarBaseListener.cs
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarBaseVisitor.cs
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarLexer.cs
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarListener.cs
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarParser.cs
+C:/Users/Teclast/source/ConfigurationLanguageToml/obj/Debug/net9.0/ConfigGrammarVisitor.cs

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConfigurationLanguageInToml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c17ef2849882bad1d53c80a871376a6bdd6082c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95d737b085a0b6a85d95ef079ea64809de0d2b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConfigurationLanguageInToml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConfigurationLanguageInToml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
